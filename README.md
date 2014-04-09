@@ -85,6 +85,8 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 > Generates bootstrap-like documentation for your own CSS!
 * **[Hologram](http://trulia.github.io/hologram/)** - [Demo](http://trulia.github.io/hologram-example/base_css.html)
 > Hologram is a Ruby gem that parses comments in your CSS and turns them into a beautiful style guide.
+* **[Styleguide.js](https://github.com/EightMedia/styleguide.js)**
+> By your local hero
 
 ## Grunt Tasks
 
