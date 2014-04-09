@@ -23,84 +23,110 @@ This page aims to list these tools. If you know of other tools, please a PR ;)
 
 These tools are built on PHP (and therefore require running a (local) webserver.)
 
-* **[Pattern Primer](https://github.com/adactio/Pattern-Primer)** - [Demo](http://patternprimer.adactio.com/) | [Source](https://github.com/adactio/Pattern-Primer)
+**[Pattern Primer](https://github.com/adactio/Pattern-Primer)** - [Demo](http://patternprimer.adactio.com/) | [Source](https://github.com/adactio/Pattern-Primer)
 > Generating styled markup from a folder of markup snippets.
-* **[Pea.rs](http://pea.rs/)** - [Demo](http://pea.rs/) | [Source](https://github.com/simplebits/Pears)
+
+**[Pea.rs](http://pea.rs/)** - [Demo](http://pea.rs/) | [Source](https://github.com/simplebits/Pears)
 > Pears is an open source WordPress theme, enabling people like you to get your own pattern library up and running quickly.
-* **[Pattern Lab](http://patternlab.io/)** - [Demo](http://demo.pattern-lab.info/) | [Source](https://github.com/pattern-lab/patternlab-php)
+
+**[Pattern Lab](http://patternlab.io/)** - [Demo](http://demo.pattern-lab.info/) | [Source](https://github.com/pattern-lab/patternlab-php)
 > Pattern Lab is a collection of tools to help you create atomic design systems.
-* **[Drupal Project Styleguide](https://drupal.org/project/styleguide)** - [Demo](http://styleguide.allgoo.de/) | [Source](https://drupal.org/project/styleguide)
+
+**[Drupal Project Styleguide](https://drupal.org/project/styleguide)** - [Demo](http://styleguide.allgoo.de/) | [Source](https://drupal.org/project/styleguide)
 > Provides a visual testing page for Drupal themes.
-* **[Style Guide Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate)** - [Demo](http://bjankord.github.io/Style-Guide-Boilerplate/) | [Source](https://github.com/bjankord/Style-Guide-Boilerplate)
+
+**[Style Guide Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate)** - [Demo](http://bjankord.github.io/Style-Guide-Boilerplate/) | [Source](https://github.com/bjankord/Style-Guide-Boilerplate)
 > A starting point for crafting living style guides.
-* **[Barebones](http://barebones.paulrobertlloyd.com/)** - [Demo](http://barebones.paulrobertlloyd.com/) | [Source](https://github.com/paulrobertlloyd/barebones)
+
+**[Barebones](http://barebones.paulrobertlloyd.com/)** - [Demo](http://barebones.paulrobertlloyd.com/) | [Source](https://github.com/paulrobertlloyd/barebones)
 > An initial directory setup, style guide and pattern primer. Intended as a starting point for my own projects, Barebones is freely available to fork and adapt for your own needs.
 
 
 ## RUBY / RAILS
 
-* **[Pattern Primer on Ruby](https://github.com/micdijkstra/Pattern-Primer-Ruby)**
-* **[Living Styleguide](http://livingstyleguide.org/)** - [Demo](https://github.com/hagenburger/livingstyleguide-example) | [Source](https://github.com/hagenburger/livingstyleguide)
+**[Pattern Primer on Ruby](https://github.com/micdijkstra/Pattern-Primer-Ruby)**
+
+**[Living Styleguide](http://livingstyleguide.org/)** - [Demo](https://github.com/hagenburger/livingstyleguide-example) | [Source](https://github.com/hagenburger/livingstyleguide)
 > The easiest way to create front-end style guides with Sass and Compass
-* **[Element CSS](http://elementcss.com/)** - [Demo](http://elementcss.com/gallery)
+
+**[Element CSS](http://elementcss.com/)** - [Demo](http://elementcss.com/gallery)
 > ElementCSS is the easiest way for designers, clients and front-end developers to create, edit and view website style guides in the medium they're intended for — the browser.
+
 
 ## NodeJS
 
 These tools are built on NodeJS (and therefore require running a (local) webserver.)
 
-* **[Source JS](http://sourcejs.com/)** - [Demo](http://sourcejs.com/docs/) | [Source](https://github.com/sourcejs/Source)
+**[Source JS](http://sourcejs.com/)** - [Demo](http://sourcejs.com/docs/) | [Source](https://github.com/sourcejs/Source)
 > Front-end documentation engine
-* **[Tapestry App](http://www.pebbleroad.com/labs/tapestry)** - [Demo](http://demos.pebbleroad.com/tapestry/src/) | [Source](https://github.com/PebbleRoad/tapestry)
+
+**[Tapestry App](http://www.pebbleroad.com/labs/tapestry)** - [Demo](http://demos.pebbleroad.com/tapestry/src/) | [Source](https://github.com/PebbleRoad/tapestry)
 > A free app that gives you an interface to store and manage your front-end patterns.
-* **[Team-Sass / generator-style-prototype](https://github.com/team-sass/generator-style-prototype)** - [Source](https://github.com/team-sass/generator-style-prototype)
+
+**[Team-Sass / generator-style-prototype](https://github.com/team-sass/generator-style-prototype)** - [Source](https://github.com/team-sass/generator-style-prototype)
 > Yeoman Generator for Style Prototypes
-* **[Pattern Primer on Node](https://github.com/codetwizzle/Pattern-Primer-on-Node)**
-* **[Pattern Lab on Node](https://github.com/midnightspecial/patternlab-node)**
-* **[KSS on Node](http://hughsk.io/kss-node/)**
+
+**[Pattern Primer on Node](https://github.com/codetwizzle/Pattern-Primer-on-Node)**
+
+**[Pattern Lab on Node](https://github.com/midnightspecial/patternlab-node)**
+
+**[KSS on Node](http://hughsk.io/kss-node/)**
 
 
 ## Static Site Generators (e.g. Jekyll)
 
 These tools generate a _static_ Style Guide website: a folder of static files.
 
-* **[Jekyll Styleguide](https://github.com/davidhund/jekyll-styleguide)** - [Demo](https://davidhund.github.io/jekyll-styleguide) | [Source](https://github.com/davidhund/jekyll-styleguide)
+**[Jekyll Styleguide](https://github.com/davidhund/jekyll-styleguide)** - [Demo](https://davidhund.github.io/jekyll-styleguide) | [Source](https://github.com/davidhund/jekyll-styleguide)
 > Using Jekyll Styleguide you can generate a Pattern Library and add patterns by simply adding new files to the `_posts` folder. Includes a GulpJS workflow that compiles Sass auto-builds Jekyll and refreshes your browser :)
-* **[Pattern Primer on Jekyll](https://github.com/opattison/Pattern-Primer-Jekyll)**
-* **[KSS Middleman](https://github.com/Darep/middleman-styleguide-template)**
-* **[Middleman KSS](http://github.com/smt/middleman-kss)**
+
+**[Pattern Primer on Jekyll](https://github.com/opattison/Pattern-Primer-Jekyll)**
+
+**[KSS Middleman](https://github.com/Darep/middleman-styleguide-template)**
+
+**[Middleman KSS](http://github.com/smt/middleman-kss)**
 
 
 ## CSS (parsing CSS source)
 
 These tools define a documenting syntax for CSS. You would e.g. write your components' HTML in a comment above the component's CSS and the tool would generate a Styleguide from it.
 
-* **[Knyle Style Sheets: KSS](http://warpspire.com/kss/)** - [Demo](http://warpspire.com/kss/) | [Source](https://github.com/kneath/kss)
+**[Knyle Style Sheets: KSS](http://warpspire.com/kss/)** - [Demo](http://warpspire.com/kss/) | [Source](https://github.com/kneath/kss)
 > KSS is intended to help automate the creation of a living styleguide. A styleguide serves as a place to publish KSS documentation and visualize different states of UI elements defined in your CSS.
-* **[StyleDocco](http://jacobrask.github.io/styledocco/)** - [Source](https://github.com/jacobrask/styledocco/issues)
+
+**[StyleDocco](http://jacobrask.github.io/styledocco/)** - [Source](https://github.com/jacobrask/styledocco/issues)
 > StyleDocco generates documentation and style guide documents from your stylesheets.
-* **[DSS](https://github.com/darcyclarke/DSS)**
+
+**[DSS](https://github.com/darcyclarke/DSS)**
 > DSS, Documented Style Sheets, is a comment styleguide and parser for CSS, LESS, STYLUS, SASS and SCSS code.
-* **[Kalei Style guide](http://kaleistyleguide.com/)** - [Source](git://github.com/thomasdavis/kaleistyleguide.git)
+
+**[Kalei Style guide](http://kaleistyleguide.com/)** - [Source](git://github.com/thomasdavis/kaleistyleguide.git)
 > Generates bootstrap-like documentation for your own CSS!
-* **[Hologram](http://trulia.github.io/hologram/)** - [Demo](http://trulia.github.io/hologram-example/base_css.html)
+
+**[Hologram](http://trulia.github.io/hologram/)** - [Demo](http://trulia.github.io/hologram-example/base_css.html)
 > Hologram is a Ruby gem that parses comments in your CSS and turns them into a beautiful style guide.
-* **[Styleguide.js](https://github.com/EightMedia/styleguide.js)** - [Demo](https://rawgithub.com/EightMedia/styleguide.js/master/test/expected/index.html) | [Source](https://github.com/EightMedia/styleguide.js)
+
+**[Styleguide.js](https://github.com/EightMedia/styleguide.js)** - [Demo](https://rawgithub.com/EightMedia/styleguide.js/master/test/expected/index.html) | [Source](https://github.com/EightMedia/styleguide.js)
 > Generate a styleguide from your CSS, by adding YAML data in the comments. It generates a self-contained html file. Works great for component based CSS.
+
 
 ## Grunt Tasks
 
-* **[Sassdown](https://github.com/nopr/sassdown)**
+**[Sassdown](https://github.com/nopr/sassdown)**
 > Grunt plugin for building living styleguides with Handlebars from Markdown comments in CSS, SASS and LESS files.
-* **[Pattern Primer on Grunt](https://github.com/asciidisco/grunt-patternprimer)**
+
+**[Pattern Primer on Grunt](https://github.com/asciidisco/grunt-patternprimer)**
+
 
 ## Other
 
-* **[Stylify Me](http://stylifyme.com)** - [Demo](http://stylifyme.com/?stylify=github.com)
+**[Stylify Me](http://stylifyme.com)** - [Demo](http://stylifyme.com/?stylify=github.com)
 > Stylify Me extracts the styles of a given website and displays them in a styleguide
-* **[Survival Kit](https://github.com/canarymason/survival-kit)** (Compass)
+
+**[Survival Kit](https://github.com/canarymason/survival-kit)** (Compass)
 > Tools and defaults for designing websites in the brower.
-* http://patternry.com/ **(Commercial)**
+
+**[Patternry](http://patternry.com/) **(Commercial)**
 
 
 ## Articles
@@ -118,4 +144,3 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 * [speakerdeck.com/.../style-guide-driven-development](https://speakerdeck.com/hagenburger/style-guide-driven-development)
 * [speakerdeck.com/.../improving-your-responsive-workflow-with-style-guides](https://speakerdeck.com/lukebrooker/improving-your-responsive-workflow-with-style-guides)
 * [paulrobertlloyd.com/about/styleguide/](http://paulrobertlloyd.com/about/styleguide/)
-
