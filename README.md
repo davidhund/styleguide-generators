@@ -8,7 +8,16 @@ This page aims to list these tools. If you know of other tools, please a PR ;)
 
 **NOTE:** This should list _generators_ only: no Bootstrap, Foundation, Topcoat, etc. but **tools** to _generate_ a Living Style Guide.
 
-<!-- TOC -->
+**Table of Contents**
+
+- [PHP](#user-content-php)
+- [RUBY / RAILS](#user-content-ruby--rails)
+- [NodeJS](#user-content-nodejs)
+- [Static Site Generators (e.g. Jekyll)](#user-content-static-site-generators-eg-jekyll)
+- [CSS (parsing CSS source)](#user-content-css-parsing-css-source)
+- [Grunt Tasks](#user-content-grunt-tasks)
+- [Other](#user-content-other)
+- [Articles](#user-content-articles)
 
 ## PHP
 
