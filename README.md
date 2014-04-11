@@ -11,122 +11,193 @@ This page aims to list these tools. If you know of other tools or have other fee
 **Table of Contents**
 
 - [PHP](#user-content-php)
-- [RUBY / RAILS](#user-content-ruby--rails)
+- [Ruby / RAILS](#user-content-Ruby--rails)
 - [NodeJS](#user-content-nodejs)
-- [Static Site Generators (e.g. Jekyll)](#user-content-static-site-generators-eg-jekyll)
+- [Jekyll](#user-content-jekyll)
 - [CSS (parsing CSS source)](#user-content-css-parsing-css-source)
 - [Grunt Tasks](#user-content-grunt-tasks)
+- [Online Services](#user-content-online-services)
 - [Other](#user-content-other)
 - [Articles](#user-content-articles)
 
 ## PHP
 
-These tools are built on PHP
-
-**[Pattern Primer](https://github.com/adactio/Pattern-Primer)** - [Demo](http://patternprimer.adactio.com/) | [Source](https://github.com/adactio/Pattern-Primer)
+### [Pattern Primer](https://github.com/adactio/Pattern-Primer)
 > Generating styled markup from a folder of markup snippets.
 
-**[Pea.rs](http://pea.rs/)** - [Demo](http://pea.rs/) | [Source](https://github.com/simplebits/Pears)
+[Demo](http://patternprimer.adactio.com/) | [Source](https://github.com/adactio/Pattern-Primer) | **PHP, HTML patterns**
+
+
+### [Pea.rs](http://pea.rs/)
 > Pears is an open source WordPress theme, enabling people like you to get your own pattern library up and running quickly.
 
-**[Pattern Lab](http://patternlab.io/)** - [Demo](http://demo.pattern-lab.info/) | [Source](https://github.com/pattern-lab/patternlab-php)
+[Demo](http://pea.rs/) | [Source](https://github.com/simplebits/Pears) | **PHP, Wordpress Theme**
+
+
+### [Pattern Lab](http://patternlab.io/)
 > Pattern Lab is a collection of tools to help you create atomic design systems.
 
-**[Drupal Project Styleguide](https://drupal.org/project/styleguide)** - [Demo](http://styleguide.allgoo.de/) | [Source](https://drupal.org/project/styleguide)
+[Demo](http://demo.pattern-lab.info/) | [Source](https://github.com/pattern-lab/patternlab-php) | **PHP, Static Generator, Grunt Task**
+
+
+### [Drupal Project Styleguide](https://drupal.org/project/styleguide)
 > Provides a visual testing page for Drupal themes.
 
-**[Style Guide Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate)** - [Demo](http://bjankord.github.io/Style-Guide-Boilerplate/) | [Source](https://github.com/bjankord/Style-Guide-Boilerplate)
+[Demo](http://styleguide.allgoo.de/) | [Source](https://drupal.org/project/styleguide) | **PHP, Drupal**
+
+
+### [Style Guide Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate)
 > A starting point for crafting living style guides.
 
-**[Barebones](http://barebones.paulrobertlloyd.com/)** - [Demo](http://barebones.paulrobertlloyd.com/) | [Source](https://github.com/paulrobertlloyd/barebones)
-> An initial directory setup, style guide and pattern primer. Intended as a starting point for my own projects, Barebones is freely available to fork and adapt for your own needs.
+[Demo](http://bjankord.github.io/Style-Guide-Boilerplate/) | [Source](https://github.com/bjankord/Style-Guide-Boilerplate) | **PHP, HTML patterns**
 
 
-## RUBY / RAILS
+### [Barebones](http://barebones.paulrobertlloyd.com/)
+> An initial directory setup, style guide and pattern primer. Intended as a starting point for […] projects…
 
-**[Pattern Primer on Ruby](https://github.com/micdijkstra/Pattern-Primer-Ruby)**
+[Demo](http://barebones.paulrobertlloyd.com/) | [Source](https://github.com/paulrobertlloyd/barebones) | **PHP, HTML patterns**
 
-**[Living Styleguide](http://livingstyleguide.org/)** - [Demo](https://github.com/hagenburger/livingstyleguide-example) | [Source](https://github.com/hagenburger/livingstyleguide)
+
+## Ruby / RAILS
+
+### [Pattern Primer on Ruby](https://github.com/micdijkstra/Pattern-Primer-Ruby)
+[Source](https://github.com/micdijkstra/Pattern-Primer-Ruby) | **Ruby, HTML patterns**
+
+
+### [Living Styleguide](http://livingstyleguide.org/)
 > The easiest way to create front-end style guides with Sass and Compass
 
-**[Element CSS](http://elementcss.com/)** - [Demo](http://elementcss.com/gallery)
-> ElementCSS is the easiest way for designers, clients and front-end developers to create, edit and view website style guides in the medium they're intended for — the browser.
+[Demo](https://github.com/hagenburger/livingstyleguide-example) | [Source](https://github.com/hagenburger/livingstyleguide) | **Ruby, Markdown, Sass**
 
 
 ## NodeJS
 
-These tools are built on NodeJS
-
-**[Source JS](http://sourcejs.com/)** - [Demo](http://sourcejs.com/docs/) | [Source](https://github.com/sourcejs/Source)
+### [Source JS](http://sourcejs.com/)
 > Front-end documentation engine
 
-**[Tapestry App](http://www.pebbleroad.com/labs/tapestry)** - [Demo](http://demos.pebbleroad.com/tapestry/src/) | [Source](https://github.com/PebbleRoad/tapestry)
+[Demo](http://sourcejs.com/docs/) | [Source](https://github.com/sourcejs/Source) | **NodeJS, Grunt, RequireJS, LESS**
+
+
+### [Tapestry App](http://www.pebbleroad.com/labs/tapestry)
 > A free app that gives you an interface to store and manage your front-end patterns.
 
-**[Team-Sass / generator-style-prototype](https://github.com/team-sass/generator-style-prototype)** - [Source](https://github.com/team-sass/generator-style-prototype)
+[Demo](http://demos.pebbleroad.com/tapestry/src/) | [Source](https://github.com/PebbleRoad/tapestry) | **NodeJS, Gulp, Angular, Markdown/YAML**
+
+
+### [Team-Sass / generator-style-prototype](https://github.com/team-sass/generator-style-prototype)
 > Yeoman Generator for Style Prototypes
 
-**[Pattern Primer on Node](https://github.com/codetwizzle/Pattern-Primer-on-Node)**
-
-**[Pattern Lab on Node](https://github.com/midnightspecial/patternlab-node)**
-
-**[KSS on Node](http://hughsk.io/kss-node/)**
+[Source](https://github.com/team-sass/generator-style-prototype) | **NodeJS, Yeoman, Ruby, Git**
 
 
-## Static Site Generators (e.g. Jekyll)
+### [Pattern Primer on Node](https://github.com/codetwizzle/Pattern-Primer-on-Node)
+[Source](https://github.com/codetwizzle/Pattern-Primer-on-Node) | **NodeJS, HTML patterns**
 
-These tools generate a _static_ Style Guide website: a folder of static files.
 
-**[Jekyll Styleguide](https://github.com/davidhund/jekyll-styleguide)** - [Demo](https://davidhund.github.io/jekyll-styleguide) | [Source](https://github.com/davidhund/jekyll-styleguide)
+### [Pattern Lab on Node](https://github.com/midnightspecial/patternlab-node)
+[Source](https://github.com/midnightspecial/patternlab-node) | **NodeJS, Static Site Generator, Mustache patterns**
+
+
+## Jekyll
+
+### [Jekyll Styleguide](https://github.com/davidhund/jekyll-styleguide)
 > Using Jekyll Styleguide you can generate a Pattern Library and add patterns by simply adding new files to the `_posts` folder. Includes a GulpJS workflow that compiles Sass auto-builds Jekyll and refreshes your browser :)
 
-**[Pattern Primer on Jekyll](https://github.com/opattison/Pattern-Primer-Jekyll)**
+[Demo](https://davidhund.github.io/jekyll-styleguide) | [Source](https://github.com/davidhund/jekyll-styleguide) | **Jekyll, Static Site Generator, Markdown, Gulp**
 
-**[KSS Middleman](https://github.com/Darep/middleman-styleguide-template)**
-
-**[Middleman KSS](http://github.com/smt/middleman-kss)**
+### [Pattern Primer on Jekyll](https://github.com/opattison/Pattern-Primer-Jekyll)
+[Source](https://github.com/opattison/Pattern-Primer-Jekyll) | **Jekyll, Static Site Generator**
 
 
 ## CSS (parsing CSS source)
 
 These tools define a documenting syntax for CSS. You would e.g. write your components' HTML in a comment above the component's CSS and the tool would generate a Styleguide from it.
 
-**[Knyle Style Sheets: KSS](http://warpspire.com/kss/)** - [Demo](http://warpspire.com/kss/) | [Source](https://github.com/kneath/kss)
+### [Knyle Style Sheets: KSS](http://warpspire.com/kss/)
 > KSS is intended to help automate the creation of a living styleguide. A styleguide serves as a place to publish KSS documentation and visualize different states of UI elements defined in your CSS.
 
-**[StyleDocco](http://jacobrask.github.io/styledocco/)** - [Source](https://github.com/jacobrask/styledocco/issues)
+[Demo](http://warpspire.com/kss/) | [Source](https://github.com/kneath/kss) | **\*CSS, Ruby**
+
+### [KSS on Node](http://hughsk.io/kss-node/)
+[Demo](http://hughsk.io/kss-node/) | [Source](https://github.com/hughsk/kss-node) | **\*CSS, NodeJS, KSS**
+
+
+### [KSS Middleman](https://github.com/Darep/middleman-styleguide-template)
+[Source](https://github.com/Darep/middleman-styleguide-template) | **\*CSS, Ruby, MiddleMan, KSS**
+
+
+### [Middleman KSS](http://github.com/smt/middleman-kss)
+[Source](http://github.com/smt/middleman-kss) | **\*CSS, Ruby, MiddleMan, KSS**
+
+
+### [StyleDocco](http://jacobrask.github.io/styledocco/)
 > StyleDocco generates documentation and style guide documents from your stylesheets.
 
-**[DSS](https://github.com/darcyclarke/DSS)**
+[Source](https://github.com/jacobrask/styledocco/issues) | **\*CSS, NodeJS, Markdown**
+
+
+### [DSS](https://github.com/darcyclarke/DSS)
 > DSS, Documented Style Sheets, is a comment styleguide and parser for CSS, LESS, STYLUS, SASS and SCSS code.
 
-**[Kalei Style guide](http://kaleistyleguide.com/)** - [Source](git://github.com/thomasdavis/kaleistyleguide.git)
+[Source](https://github.com/darcyclarke/DSS) | **\*CSS, NodeJS, Grunt, Sublime Plugin**
+
+
+### [Kalei Style guide](http://kaleistyleguide.com/)
 > Generates bootstrap-like documentation for your own CSS!
 
-**[Hologram](http://trulia.github.io/hologram/)** - [Demo](http://trulia.github.io/hologram-example/base_css.html)
+[Source](git://github.com/thomasdavis/kaleistyleguide.git) | **\*CSS, JS, Backbone, Underscore, Markdown**
+
+
+### [Hologram](http://trulia.github.io/hologram/)
 > Hologram is a Ruby gem that parses comments in your CSS and turns them into a beautiful style guide.
 
-**[Styleguide.js](https://github.com/EightMedia/styleguide.js)** - [Demo](https://rawgithub.com/EightMedia/styleguide.js/master/test/expected/index.html) | [Source](https://github.com/EightMedia/styleguide.js)
+[Demo](http://trulia.github.io/hologram-example/base_css.html) | **\*CSS, Ruby, Markdown**
+
+
+### [Styleguide.js](https://github.com/EightMedia/styleguide.js)
 > Generate a styleguide from your CSS, by adding YAML data in the comments. It generates a self-contained html file. Works great for component based CSS.
+
+[Demo](https://rawgithub.com/EightMedia/styleguide.js/master/test/expected/index.html) | [Source](https://github.com/EightMedia/styleguide.js) | **\*CSS, NodeJS, Coffeescript, YAML**
 
 
 ## Grunt Tasks
 
-**[Sassdown](https://github.com/nopr/sassdown)**
+### [Sassdown](https://github.com/nopr/sassdown)
 > Grunt plugin for building living styleguides with Handlebars from Markdown comments in CSS, SASS and LESS files.
 
-**[Pattern Primer on Grunt](https://github.com/asciidisco/grunt-patternprimer)**
+[Source](https://github.com/nopr/sassdown) | **GruntJS, Handlebars, Markdown**
+
+
+### [Pattern Primer on Grunt](https://github.com/asciidisco/grunt-patternprimer)
+[Source](https://github.com/asciidisco/grunt-patternprimer) | **GruntJS, HTML patterns**
+
+
+## Online Services
+
+These services provide a web-app to generate your styleguide. Some require an account
+
+### [Element CSS](http://elementcss.com/)
+> ElementCSS is the easiest way for designers, clients and front-end developers to create, edit and view website style guides in the medium they're intended for — the browser.
+
+[Service](http://elementcss.com) | [Demo](http://elementcss.com/gallery) | **Service, Login**
+
+
+### [Patternry](http://patternry.com/)
+[Service](http://patternry.com/) | **Service, Login, (Commercial)**
 
 
 ## Other
 
-**[Stylify Me](http://stylifyme.com)** - [Demo](http://stylifyme.com/?stylify=github.com)
+### [Stylify Me](http://stylifyme.com)
 > Stylify Me extracts the styles of a given website and displays them in a styleguide
 
-**[Survival Kit](https://github.com/canarymason/survival-kit)** (Compass)
+[Demo](http://stylifyme.com/?stylify=github.com) | **Extract, Example**
+
+
+### [Survival Kit](https://github.com/canarymason/survival-kit)
 > Tools and defaults for designing websites in the brower.
 
-**[Patternry](http://patternry.com/) **(Commercial)**
+[Source Kit](https://github.com/canarymason/survival-kit) | **Templates, HTML, Sass, Compass, Styletiles**
 
 
 ## Articles
