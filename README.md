@@ -11,7 +11,7 @@ This page aims to list these tools. If you know of other tools or have other fee
 **Table of Contents**
 
 - [PHP](#user-content-php)
-- [Ruby / RAILS](#user-content-Ruby--rails)
+- [Ruby / RAILS](#user-content-ruby--rails)
 - [NodeJS](#user-content-nodejs)
 - [Jekyll](#user-content-jekyll)
 - [CSS (parsing CSS source)](#user-content-css-parsing-css-source)
