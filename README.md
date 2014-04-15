@@ -52,6 +52,12 @@ This page aims to list these tools. If you know of other tools or have other fee
 [Demo](http://bjankord.github.io/Style-Guide-Boilerplate/) | [Source](https://github.com/bjankord/Style-Guide-Boilerplate) | **PHP, HTML patterns**
 
 
+### [Style Guide Boilerplate Bootstrap Edition](http://www.monolinea.com/labs/bootstrap-style-guide-boilerplate/)
+> A starting point for crafting living style guides for Bootstrap-based projects.
+
+[Demo](http://www.monolinea.com/projects/styleguide/) | [Source](https://github.com/kemie/Style-Guide-Boilerplate-Bootstrap-Edition) | **PHP, HTML patterns, Bootstrap**
+
+
 ### [Barebones](http://barebones.paulrobertlloyd.com/)
 > An initial directory setup, style guide and pattern primer. Intended as a starting point for […] projects…
 
