@@ -166,6 +166,12 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 [Demo](https://rawgithub.com/EightMedia/styleguide.js/master/test/expected/index.html) | [Source](https://github.com/EightMedia/styleguide.js) | **\*CSS, NodeJS, Coffeescript, YAML**
 
 
+### [YSS](http://yago.io/project/yss/)
+> YSS is styleguide framework written in PHP and jQuery. It display nicely all your commented CSS […]
+
+[Demo](http://yago.io/project/yss/) | [Source](https://github.com/Yago31/YSS) | **CSS, PHP, jQuery, Markdown**
+
+
 ## Grunt Tasks
 
 ### [Sassdown](https://github.com/nopr/sassdown)
