@@ -4,7 +4,7 @@ Pattern Libraries (or _Style Guides_) are a helpful tool in developing websites.
 
 Maintaining a _static_ Pattern Library (in HTML/CSS) is hard work and errorprone. There are, however, various tools that help us _generate_ a dynamic Pattern Library or ['Living Style Guide'](https://speakerdeck.com/hagenburger/style-guide-driven-development).
 
-This page aims to list these tools. If you know of other tools or have other feedback, please let me know or submit a PR.
+This page aims to list these tools. If you know of other tools or have other feedback, please let me know or submit a PR. Thanks, [David Hund](https://github.com/davidhund) [@valuedstandards](https://twitter.com/valuedstandards)
 
 **NOTE:** This should list _generators_ only: no Bootstrap, Foundation, Topcoat, etc. but **tools** to _generate_ a Living Style Guide.
 
