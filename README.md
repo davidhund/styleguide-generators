@@ -70,10 +70,10 @@ This page aims to list these tools. If you know of other tools or have other fee
 [Source](https://github.com/micdijkstra/Pattern-Primer-Ruby) | **Ruby, HTML patterns**
 
 
-### [Living Styleguide](http://livingstyleguide.org/)
+### [Living Style Guide](http://livingstyleguide.org/)
 > The easiest way to create front-end style guides with Sass and Compass
 
-[Demo](https://github.com/hagenburger/livingstyleguide-example) | [Source](https://github.com/hagenburger/livingstyleguide) | **Ruby, Markdown, Sass**
+[Demo](http://www.homify.de/assets/styleguide.html) | [Open source demo](http://livingstyleguide.com/eurucamp/) | [Source](https://github.com/hagenburger/livingstyleguide) | **Ruby, Markdown, Sass**
 
 
 ## NodeJS
