@@ -15,7 +15,7 @@ This page aims to list these tools. If you know of other tools or have other fee
 - [NodeJS](#user-content-nodejs)
 - [Jekyll](#user-content-jekyll)
 - [CSS (parsing CSS source)](#user-content-css-parsing-css-source)
-- [Grunt Tasks](#user-content-grunt-tasks)
+- [Grunt / Gulp Tasks](#user-content-grunt--gulp-tasks)
 - [Online Services](#user-content-online-services)
 - [Other](#user-content-other)
 - [Articles](#user-content-articles)
@@ -178,7 +178,13 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 [Demo](http://yago.io/project/yss/) | [Source](https://github.com/Yago31/YSS) | **CSS, PHP, jQuery, Markdown**
 
 
-## Grunt Tasks
+## Grunt / Gulp Tasks
+
+
+### [SC5 style guide generator](http://styleguide.sc5.io/)
+> CLI, gulp/grunt task to create style guides from stylesheets using KSS notation.
+
+[Demo](http://styleguide.sc5.io/) | [Source](https://github.com/SC5/sc5-styleguide) | **GruntJS, GulpJS, \*CSS, NodeJS, KSS, Gulp, Grunt**
 
 ### [Sassdown](https://github.com/nopr/sassdown)
 > Grunt plugin for building living styleguides with Handlebars from Markdown comments in CSS, SASS and LESS files.
