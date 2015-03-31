@@ -230,10 +230,10 @@ These services provide a web-app to generate your styleguide. Some require an ac
 [Demo](http://stylifyme.com/?stylify=github.com) | **Extract, Example**
 
 
-### [Survival Kit](https://github.com/canarymason/survival-kit)
-> Tools and defaults for designing websites in the brower.
+### [North Generator Style Prototype](https://github.com/north/generator-style-prototype)
+> Yeoman Generator for Style Prototypes
 
-[Source Kit](https://github.com/canarymason/survival-kit) | **Templates, HTML, Sass, Compass, Styletiles**
+[Yeoman Generator](https://github.com/north/generator-style-prototype) | **Templates, Sass, Compass, Yeoman, Grunt,Bower, Styletiles**
 
 
 ## Articles
