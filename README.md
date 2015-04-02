@@ -100,8 +100,8 @@ This page aims to list these tools. If you know of other tools or have other fee
 [Source](https://github.com/codetwizzle/Pattern-Primer-on-Node) | **NodeJS, HTML patterns**
 
 
-### [Pattern Lab on Node](https://github.com/midnightspecial/patternlab-node)
-[Source](https://github.com/midnightspecial/patternlab-node) | **NodeJS, Static Site Generator, Mustache patterns**
+### [Pattern Lab on Node](https://github.com/pattern-lab/patternlab-node)
+[Source](https://github.com/pattern-lab/patternlab-node) | **NodeJS, Static Site Generator, Mustache patterns**
 
 
 ### [Fabricator](https://github.com/resource/fabricator)
