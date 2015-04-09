@@ -104,10 +104,10 @@ This page aims to list these tools. If you know of other tools or have other fee
 [Source](https://github.com/pattern-lab/patternlab-node) | **NodeJS, Static Site Generator, Mustache patterns**
 
 
-### [Fabricator](https://github.com/resource/fabricator)
-[Source](https://github.com/resource/fabricator) | **NodeJS, Gulp, Markdown, Static Site Generator, Mustache patterns**
+### [Fabricator](http://fbrctr.github.io)
+[Source](https://github.com/fbrctr/fabricator) | **NodeJS, Gulp, Markdown, Static Site Generator, Mustache patterns**
 
-> A tool for creating modular website toolkits
+> A tool for building website UI toolkits
 
 ### [Component Styleguide](https://github.com/webpro/component-styleguide)
 
