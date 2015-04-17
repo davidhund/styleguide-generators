@@ -75,6 +75,9 @@ This page aims to list these tools. If you know of other tools or have other fee
 
 [Demo](http://www.homify.de/assets/styleguide.html) | [Open source demo](http://livingstyleguide.com/eurucamp/) | [Source](https://github.com/hagenburger/livingstyleguide) | **Ruby, Markdown, Sass**
 
+### [Mountain View](https://github.com/jgnatch/mountain_view/)
+[Source](https://github.com/jgnatch/mountain_view/) | **Ruby, Rails, Components**
+
 
 ## NodeJS
 
