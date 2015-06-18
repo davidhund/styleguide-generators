@@ -81,6 +81,12 @@ This page aims to list these tools. If you know of other tools or have other fee
 
 ## NodeJS
 
+### [DocumentCSS](http://documentcss.com/)
+> Create a live style guide that can easily expand into a documentation hub. Store all kinds of documentation, from design rationale, to CSS, JS, and API docs.
+
+[Demo](http://documentcss.com/examples/styles/variables.less.html) | [Source](https://github.com/bitovi/documentcss) | **NodeJS, Markdown, Custom Tags, Static Site Generator**
+
+
 ### [Source JS](http://sourcejs.com/)
 > Front-end documentation engine
 
