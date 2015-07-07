@@ -220,13 +220,6 @@ These services provide a web-app to generate your styleguide. Some require an ac
 [Service](https://frontify.com/) | **Service, Login, Free (1 project), Commercial (2+ projects)**
 
 
-
-### [Element CSS](http://elementcss.com/)
-> ElementCSS is the easiest way for designers, clients and front-end developers to create, edit and view website style guides in the medium they're intended for — the browser.
-
-[Service](http://elementcss.com) | [Demo](http://elementcss.com/gallery) | **Service, Login**
-
-
 ### [Patternry](http://patternry.com/)
 [Service](http://patternry.com/) | **Service, Login, (Commercial)**
 
