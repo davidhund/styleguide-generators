@@ -144,7 +144,7 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 
 [Demo](http://warpspire.com/kss/) | [Source](https://github.com/kneath/kss) | **\*CSS, Ruby**
 
-### KSS on Node
+### [KSS on Node](http://kss-node.github.io/kss-node/)
 [Demo](http://kss-node.github.io/kss-node/) | [Source](https://github.com/hughsk/kss-node) | **\*CSS, NodeJS, KSS**
 
 
