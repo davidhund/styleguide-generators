@@ -120,7 +120,7 @@ This page aims to list these tools. If you know of other tools or have other fee
 
 ### [Component Styleguide](https://github.com/webpro/component-styleguide)
 
-[Source](https://github.com/webpro/component-styleguide) | **NodeJS, HTML & Handlebars patterns**
+[Demo](http://component-styleguide-example.webpro.nl) | [Source](https://github.com/webpro/component-styleguide) | **NodeJS, HTML & Handlebars patterns**
 
 > Simple styleguide framework
 
