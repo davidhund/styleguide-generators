@@ -205,6 +205,10 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 
 [Source](https://github.com/nopr/sassdown) | **GruntJS, Handlebars, Markdown**
 
+### [PatternPack](http://patternpack.org/)
+> Build and Document Your Interface. Then Share the Code.
+
+[Source](https://github.com/patternpack/patternpack) | **GruntJS, Markdown**
 
 ### [Pattern Primer on Grunt](https://github.com/asciidisco/grunt-patternprimer)
 [Source](https://github.com/asciidisco/grunt-patternprimer) | **GruntJS, HTML patterns**
