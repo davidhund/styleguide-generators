@@ -218,10 +218,10 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 
 These services provide a web-app to generate your styleguide. Some require an account
 
-### [Frontify](https://frontify.com/)
-> Frontify is a design collaboration tool that has designers and developers in mind. Upload & Specify your design - the style guide & UX pattern library is automatically generated from your specs. 
+### [Frontify Style Guide](https://frontify.com/styleguide)
+> You can create design, brand or UI guidelines with the Frontify Style Guide editor. Use existing templates or start from scratch by choosing from over 20 smart blocks (like colors, media, typography, UI elements, & more) - For Non-coders and coders =)
 
-[Service](https://frontify.com/) | **Service, Login, Free (1 project), Commercial (2+ projects)**
+[Service](https://frontify.com/styleguide) | **Service, Login, Free (“Powered by Frontify”), Commercial ($9/$49)**
 
 
 ### [Patternry](http://patternry.com/)
