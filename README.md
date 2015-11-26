@@ -192,6 +192,11 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 [Demo](http://yago.io/project/yss/) | [Source](https://github.com/Yago31/YSS) | **CSS, PHP, jQuery, Markdown**
 
 
+### [postcss-style-guide](https://github.com/morishitter/postcss-style-guide)
+> [PostCSS](https://github.com/postcss/postcss) plugin. CSS comments will be parsed through Markdown and displayed in a generated HTML document.
+
+[Source](https://github.com/morishitter/postcss-style-guide) | **CSS, NodeJS, GruntJS, GulpJS, Markdown**
+
 ## Grunt / Gulp Tasks
 
 
