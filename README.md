@@ -11,6 +11,7 @@ This page aims to list these tools. If you know of other tools or have other fee
 **Table of Contents**
 
 - [PHP](#user-content-php)
+- [Python / Flask](#user-content-python--flask)
 - [Ruby / RAILS](#user-content-ruby--rails)
 - [NodeJS](#user-content-nodejs)
 - [Jekyll](#user-content-jekyll)
@@ -62,6 +63,14 @@ This page aims to list these tools. If you know of other tools or have other fee
 > An initial directory setup, style guide and pattern primer. Intended as a starting point for […] projects…
 
 [Demo](http://barebones.paulrobertlloyd.com/) | [Source](https://github.com/paulrobertlloyd/barebones) | **PHP, HTML patterns**
+
+
+## Python / Flask
+
+### [Flask-Styleguide](https://github.com/vitalk/flask-styleguide)
+> A living style guide for your Flask application.
+
+[Demo](https://vitalk.github.io/flask-styleguide-example) | [Source](https://github.com/vitalk/flask-styleguide) | [Documentation](http://flask-styleguide.readthedocs.org/en/latest/) | **Python, Flask, KSS**
 
 
 ## Ruby / RAILS
