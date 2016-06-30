@@ -29,12 +29,6 @@ This page aims to list these tools. If you know of other tools or have other fee
 [Demo](http://patternprimer.adactio.com/) | [Source](https://github.com/adactio/Pattern-Primer) | **PHP, HTML patterns**
 
 
-### [Pea.rs](http://pea.rs/)
-> Pears is an open source WordPress theme, enabling people like you to get your own pattern library up and running quickly.
-
-[Demo](http://pea.rs/) | [Source](https://github.com/simplebits/Pears) | **PHP, Wordpress Theme**
-
-
 ### [Pattern Lab](http://patternlab.io/)
 > Pattern Lab is a collection of tools to help you create atomic design systems.
 
