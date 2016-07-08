@@ -213,6 +213,13 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 
 [Demo](http://jonathantneal.github.io/mdcss-theme-github/demo/) | [Source](https://github.com/jonathantneal/mdcss) | **CSS, PostCSS, NodeJS, GruntJS, GulpJS, Markdown**
 
+
+### [aigis](https://pxgrid.github.io/aigis/)
+> Aigis is a Node.js package that parses comments in your CSS and auto-generate a style guide. It is similar to Hologram, like a Node.js implementation of Hologram.
+
+[Demo](https://pxgrid.github.io/aigis/sample/category/base/index.html) | [Source](https://github.com/pxgrid/aigis) | **CSS, NodeJS, [GulpJS](https://pxgrid.github.io/gulp-aigis/), Markdown**
+
+
 ## Grunt / Gulp Tasks
 
 
