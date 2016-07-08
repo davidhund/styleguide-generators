@@ -85,8 +85,8 @@ This page aims to list these tools. If you know of other tools or have other fee
 
 ## React
 
-### [Demo](http://bluekit.blueberry.io/)
-[Source](https://github.com/blueberryapps/react-bluekit) | **React, components**
+### [Bluekit](http://bluekit.blueberry.io/)
+[Demo](http://bluekit.blueberry.io/) | [Source](https://github.com/blueberryapps/react-bluekit) | **React, components**
 
 
 ## NodeJS
