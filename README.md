@@ -134,6 +134,12 @@ This page aims to list these tools. If you know of other tools or have other fee
 
 > Simple styleguide framework
 
+### [Fractal](http://fractal.build/)
+> A tool to help you build and document web component libraries and then integrate them into your projects.
+
+[Source](https://github.com/frctl/fractal) | **NodeJS, Markdown**
+
+
 ## Jekyll
 
 ### [Jekyll Styleguide](https://github.com/davidhund/jekyll-styleguide)
