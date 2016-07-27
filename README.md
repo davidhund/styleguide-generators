@@ -33,7 +33,7 @@ This page aims to list these tools. If you know of other tools or have other fee
 ### [Pattern Lab](http://patternlab.io/)
 > Pattern Lab is a collection of tools to help you create atomic design systems.
 
-[Demo](http://demo.pattern-lab.info/) | [Source](https://github.com/pattern-lab/patternlab-php) | **PHP, Static Generator, Grunt Task**
+[Demo](http://demo.pattern-lab.info/) | [Source](https://github.com/pattern-lab/patternlab-php) | **PHP, Atomic, Static Generator, Grunt Task**
 
 
 ### [Drupal Project Styleguide](https://drupal.org/project/styleguide)
@@ -58,6 +58,11 @@ This page aims to list these tools. If you know of other tools or have other fee
 > An initial directory setup, style guide and pattern primer. Intended as a starting point for […] projects…
 
 [Demo](http://barebones.paulrobertlloyd.com/) | [Source](https://github.com/paulrobertlloyd/barebones) | **PHP, HTML patterns**
+
+### [atomicdocs](http://atomicdocs.io/)
+> Atomic Docs is a front end style guide generator and Scss/Less/Stylus partial manager. Atomic Docs is built in PHP and Sass.
+
+[Demo](http://www.nickberens.me/atomic-docs/atomic-core/base.php) | [Source](https://github.com/nickberens360/atomic-docs) | **PHP, Atomic, HTML patterns**
 
 
 ## Python / Flask
