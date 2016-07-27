@@ -140,6 +140,12 @@ This page aims to list these tools. If you know of other tools or have other fee
 [Source](https://github.com/frctl/fractal) | **NodeJS, Markdown**
 
 
+### [Astrum](http://astrum.nodividestudio.com/)
+> A lightweight, non-opinionated, pattern library designed to be included with any web project.
+
+[Source](https://github.com/NoDivide/astrum) | **NodeJS, CLI, Markdown**
+
+
 ## Jekyll
 
 ### [Jekyll Styleguide](https://github.com/davidhund/jekyll-styleguide)
