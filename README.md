@@ -195,12 +195,6 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 [Source](https://github.com/darcyclarke/DSS) | **\*CSS, NodeJS, Grunt, Sublime Plugin**
 
 
-### [Kalei Style guide](http://kaleistyleguide.com/)
-> Generates bootstrap-like documentation for your own CSS!
-
-[Source](git://github.com/thomasdavis/kaleistyleguide.git) | **\*CSS, JS, Backbone, Underscore, Markdown**
-
-
 ### [Hologram](http://trulia.github.io/hologram/)
 > Hologram is a Ruby gem that parses comments in your CSS and turns them into a beautiful style guide.
 
