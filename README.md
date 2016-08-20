@@ -200,6 +200,11 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 
 [Demo](http://trulia.github.io/hologram-example/base_css.html) | **\*CSS, Ruby, Markdown**
 
+### [Nucleus](https://holidaypirates.github.io/nucleus/)
+> Nucleus is a living style guide generator for atomic css based components.
+
+[Demo](https://holidaypirates.github.io/nucleus/demo/index.html) | **\*SCSS, NodeJS**
+
 
 ### [Styleguide.js](https://github.com/EightMedia/styleguide.js)
 > Generate a styleguide from your CSS, by adding YAML data in the comments. It generates a self-contained html file. Works great for component based CSS.
