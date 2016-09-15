@@ -150,12 +150,6 @@ This page aims to list these tools. If you know of other tools or have other fee
 
 [Source](https://github.com/NoDivide/astrum) | **NodeJS, CLI, Markdown**
 
-
-### [ndoc](http://nodeca.github.io/ndoc/)
-> Inline comment parser and JavaScript documentation generator
-
-[Source](https://github.com/nodeca/ndoc) | **NodeJS, CLI, EBNF syntax**
-
 ## Jekyll
 
 ### [Jekyll Styleguide](https://github.com/davidhund/jekyll-styleguide)
@@ -245,12 +239,6 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 > Styledown is made to work in most web development setups. It doesn't favor any framework or language or any preprocessor.
 
 [Demo](http://cdn.rawgit.com/styledown/styledown/v1.0.2/examples/bootstrap/index.html) | [Source](https://github.com/styledown/styledown) **CSS, NodeJS, Markdown**
-
-
-### [MkDocs](http://www.mkdocs.org/)
-> Static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.
-
-[Source](https://github.com/mkdocs/mkdocs/) **CSS, NodeJS, Markdown**
 
 
 ## Grunt / Gulp Tasks
