@@ -129,15 +129,14 @@ This page aims to list these tools. If you know of other tools or have other fee
 
 
 ### [Fabricator](http://fbrctr.github.io)
-[Source](https://github.com/fbrctr/fabricator) | **NodeJS, Gulp, Markdown, Static Site Generator, Mustache patterns**
-
 > A tool for building website UI toolkits
 
+[Source](https://github.com/fbrctr/fabricator) | **NodeJS, Gulp, Markdown, Static Site Generator, Mustache patterns**
+
 ### [Component Styleguide](https://github.com/webpro/component-styleguide)
+> Simple styleguide framework
 
 [Demo](http://component-styleguide-example.webpro.nl) | [Source](https://github.com/webpro/component-styleguide) | **NodeJS, HTML & Handlebars patterns**
-
-> Simple styleguide framework
 
 ### [Fractal](http://fractal.build/)
 > A tool to help you build and document web component libraries and then integrate them into your projects.
