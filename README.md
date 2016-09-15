@@ -128,6 +128,10 @@ This page aims to list these tools. If you know of other tools or have other fee
 [Source](https://github.com/pattern-lab/patternlab-node) | **NodeJS, Static Site Generator, Mustache patterns**
 
 
+### [patternplate](https://github.com/sinnerschrader/patternplate)
+[Source](https://github.com/sinnerschrader/patternplate) | **NodeJS, React (jsx) patterns, LESS**
+> patternplate is a platform designed to help you create and maintain component libraries.
+
 ### [Fabricator](http://fbrctr.github.io)
 [Source](https://github.com/fbrctr/fabricator) | **NodeJS, Gulp, Markdown, Static Site Generator, Mustache patterns**
 
