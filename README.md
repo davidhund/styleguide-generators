@@ -144,9 +144,9 @@ This page aims to list these tools. If you know of other tools or have other fee
 [Demo](http://component-styleguide-example.webpro.nl) | [Source](https://github.com/webpro/component-styleguide) | **NodeJS, HTML & Handlebars patterns**
 
 ### [Fractal](http://fractal.build/)
-> A tool to help you build and document web component libraries and then integrate them into your projects.
+> A tool to help you build and document web component libraries and then integrate them into your projects. By default, Fractal uses Handlebars to render so called view templates, but you are free to use a different template engine.
 
-[Source](https://github.com/frctl/fractal) | **NodeJS, Markdown**
+[Source](https://github.com/frctl/fractal) | **NodeJS, Markdown, Handlebars**
 
 
 ### [Astrum](http://astrum.nodividestudio.com/)
