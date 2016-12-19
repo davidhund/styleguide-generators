@@ -280,6 +280,10 @@ These services provide a web-app to generate your styleguide. Some require an ac
 ### [Patternry](http://patternry.com/)
 [Service](http://patternry.com/) | **Service, Login, (Commercial)**
 
+### [Runway](http://runway-app.cfapps.io/)
+> Go from stylesheet to styleguide, instantly. Runway parses comments in your CSS/SCSS and deploys a beautiful, shareable styleguide. Choose between multiple themes / syntax highlighting choices, and tweak your styleguide in realtime through an interactive editor.
+
+[Service](http://runway-app.cfapps.io/) | **Service, Login, Free**
 
 ## Other
 
