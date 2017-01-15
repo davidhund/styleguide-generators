@@ -157,6 +157,12 @@ This page aims to list these tools. If you know of other tools or have other fee
 
 [Source](https://github.com/NoDivide/astrum) | **NodeJS, CLI, Markdown**
 
+
+### [Swanky Docs](https://swanky-docs.org/)
+> A simple, flexible and powerful ecosystem for creating beautiful documentation.
+
+[Source](https://github.com/swanky-docs) | **NodeJS, CLI, Markdown**
+
 ## Jekyll
 
 ### [Jekyll Styleguide](https://github.com/davidhund/jekyll-styleguide)
