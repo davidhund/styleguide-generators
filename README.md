@@ -33,7 +33,7 @@ This page aims to list these tools. If you know of other tools or have other fee
 ### [Pattern Lab](http://patternlab.io/)
 > Pattern Lab is a collection of tools to help you create atomic design systems.
 
-[Demo](http://demo.pattern-lab.info/) | [Source](https://github.com/pattern-lab/patternlab-php) | **PHP, Atomic, Static Generator, Grunt Task**
+[Demo](http://demo.patternlab.io/) | [Source](https://github.com/pattern-lab/patternlab-php) | **PHP, Atomic, Static Generator, Grunt Task**
 
 
 ### [Drupal Project Styleguide](https://drupal.org/project/styleguide)
