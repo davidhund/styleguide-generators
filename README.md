@@ -163,6 +163,12 @@ This page aims to list these tools. If you know of other tools or have other fee
 
 [Source](https://github.com/swanky-docs) | **NodeJS, CLI, Markdown**
 
+
+### [Component Library](https://github.com/sneas/component-library)
+> An easy way to create HTML styleguide for a web project.
+
+[Source](https://github.com/sneas/component-library) | [Demo](http://sneas.github.io/component-library/index.html) | **NodeJS, HTML, Static Site Generator**
+
 ## Jekyll
 
 ### [Jekyll Styleguide](https://github.com/davidhund/jekyll-styleguide)
