@@ -302,6 +302,11 @@ These services provide a web-app to generate your styleguide. Some require an ac
 
 ## Other
 
+### [Simple style guide](https://github.com/Dkogan90/simple-style-guide)
+> A Simple style guide generator/template that uses handlebars and markdown syntax. This tool creates documentation for your already developed js and css files.
+
+[Source](https://github.com/Dkogan90/simple-style-guide) | **Grunt, Markdown, highlightJs, Template, Sass,  Static Site Generator**
+
 ### [Stylify Me](http://stylifyme.com)
 > Stylify Me extracts the styles of a given website and displays them in a styleguide
 
