@@ -96,6 +96,11 @@ This page aims to list these tools. If you know of other tools or have other fee
 ### [React Styleguidist](https://github.com/styleguidist/react-styleguidist)
 [Demo](http://react-styleguidist.js.org/) | **React, Markdown, components**
 
+### [Catalog](https://interactivethings.github.io/catalog/)
+> Catalog lets you create beautiful living and fully interactive style guides using Markdown and React components.
+
+[Source](https://github.com/interactivethings/catalog) | [Demo](https://interactivethings.github.io/catalog/) **React, NodeJS, CLI, Markdown, components**
+
 
 ## NodeJS
 
@@ -168,6 +173,13 @@ This page aims to list these tools. If you know of other tools or have other fee
 > An easy way to create HTML styleguide for a web project.
 
 [Source](https://github.com/sneas/component-library) | [Demo](http://sneas.github.io/component-library/index.html) | **NodeJS, HTML, Static Site Generator**
+
+
+### [Drizzle](https://cloudfour.com/thinks/introducing-drizzle/)
+> A streamlined tool for developing, documenting and presenting UI pattern libraries.
+
+[Source](https://github.com/cloudfour/drizzle/) | [Demo](https://cloudfour.github.io/drizzle/) | **NodeJS, Gulp, Handlebards, Static Site Generator**
+
 
 ## Jekyll
 
