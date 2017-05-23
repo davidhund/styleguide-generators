@@ -291,8 +291,10 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 [Source](https://github.com/patternpack/patternpack) | **GruntJS, Markdown**
 
 ### [Pattern Primer on Grunt](https://github.com/asciidisco/grunt-patternprimer)
-[Source](https://github.com/asciidisco/grunt-patternprimer) | **GruntJS, HTML patterns**
+[Demo](http://patternprimer.adactio.com/) | [Source](https://github.com/asciidisco/grunt-patternprimer) | **GruntJS, HTML patterns**
 
+### [Devbridge Styleguide](http://livingstyleguide.devbridge.com/)
+[Demo](http://styleguide.devbproto.com/styleguide/) | [Source](https://github.com/devbridge/Styleguide) | **NodeJS, GulpJS, GruntJS, Scss, Less, HTML patterns**
 
 ## Online Services
 
