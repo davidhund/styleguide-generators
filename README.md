@@ -144,7 +144,7 @@ This page aims to list these tools. If you know of other tools or have other fee
 ### [Fabricator](http://fbrctr.github.io)
 > A tool for building website UI toolkits
 
-[Source](https://github.com/fbrctr/fabricator) | **NodeJS, Gulp, Markdown, Static Site Generator, Mustache patterns**
+[Demo](http://fbrctr.github.io/demo/) | [Source](https://github.com/fbrctr/fabricator) | **NodeJS, Gulp, Markdown, Static Site Generator, Mustache patterns**
 
 ### [Component Styleguide](https://github.com/webpro/component-styleguide)
 > Simple styleguide framework
