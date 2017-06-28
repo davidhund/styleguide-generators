@@ -181,6 +181,12 @@ This page aims to list these tools. If you know of other tools or have other fee
 [Source](https://github.com/cloudfour/drizzle/) | [Demo](https://cloudfour.github.io/drizzle/) | **NodeJS, Gulp, Handlebards, Static Site Generator**
 
 
+### [UIengine](https://github.com/dennisreimann/uiengine)
+> The UIengine is a tool for developers, designers and product owners to create, document and evolve a design system collaboratively. It generates your design system documentation (i.e. pattern library, styleguide or brand manual) and brings the tools to implement the design system in your web site or application.
+
+[Source](https://github.com/dennisreimann/uiengine) | **NodeJS, Gulp, CLI, Markdown, YAML, Templating agnostic (Pug, React/JSX, Handlebars, …) **
+
+
 ## Jekyll
 
 ### [Jekyll Styleguide](https://github.com/davidhund/jekyll-styleguide)
