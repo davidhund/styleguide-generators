@@ -14,6 +14,7 @@ This page aims to list these tools. If you know of other tools or have other fee
 - [Python / Flask](#user-content-python--flask)
 - [Ruby / RAILS](#user-content-ruby--rails)
 - [ReactJS](#user-content-react)
+- [VueJs](#user-content-vue)
 - [NodeJS](#user-content-nodejs)
 - [Jekyll](#user-content-jekyll)
 - [CSS (parsing CSS source)](#user-content-css-parsing-css-source)
@@ -100,6 +101,11 @@ This page aims to list these tools. If you know of other tools or have other fee
 > Catalog lets you create beautiful living and fully interactive style guides using Markdown and React components.
 
 [Source](https://github.com/interactivethings/catalog) | [Demo](https://interactivethings.github.io/catalog/) **React, NodeJS, CLI, Markdown, components**
+
+## Vue
+
+### [Vue Styleguidist](https://github.com/vue-styleguidist/vue-styleguidist)
+[Demo](http://rafaelescala.com/vue-styleguide/) | [Source](https://github.com/vue-styleguidist/vue-styleguidist) | **Vue, Markdown, components**
 
 
 ## NodeJS
