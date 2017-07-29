@@ -312,11 +312,15 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 
 These services provide a web-app to generate your styleguide. Some require an account
 
+### [Living Style Guides](https://www.livingstyleguides.com/)
+> Create a living style guide from Markdown comments in CSS, JS, Sass, React, Angular, and more. Unopinionated, flexible, and no installation required.
+
+[Service](https://www.livingstyleguides.com/) | **Service, Login, Free**
+
 ### [Frontify Style Guide](https://frontify.com/styleguide)
 > You can create design, brand or UI guidelines with the Frontify Style Guide editor. Use existing templates or start from scratch by choosing from over 20 smart blocks (like colors, media, typography, UI elements, & more) - For Non-coders and coders =)
 
 [Service](https://frontify.com/styleguide) | **Service, Login, Free (“Powered by Frontify”), Commercial ($9/$49)**
-
 
 ### [Patternry](http://patternry.com/)
 [Service](http://patternry.com/) | **Service, Login, (Commercial)**
