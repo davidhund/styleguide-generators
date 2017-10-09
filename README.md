@@ -110,6 +110,12 @@ This page aims to list these tools. If you know of other tools or have other fee
 
 ## NodeJS
 
+### [Stylemark](https://github.com/nextbigsoundinc/stylemark)
+> A living style guide generator for everything&mdash;CSS, JS, React, Angular, and more.
+
+[Demo](http://stylemark-bootstrap.surge.sh/) | [Source](https://github.com/nextbigsoundinc/stylemark) | **Static Site Generator, NodeJS, Markdown, React, Angular, Ember, CSS, LESS, SASS**
+
+
 ### [DocumentCSS](http://documentcss.com/)
 > Create a live style guide that can easily expand into a documentation hub. Store all kinds of documentation, from design rationale, to CSS, JS, and API docs.
 
@@ -311,11 +317,6 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 ## Online Services
 
 These services provide a web-app to generate your styleguide. Some require an account
-
-### [Living Style Guides](https://www.livingstyleguides.com/)
-> Create a living style guide from Markdown comments in CSS, JS, Sass, React, Angular, and more. Unopinionated, flexible, and no installation required.
-
-[Service](https://www.livingstyleguides.com/) | **Service, Login, Free**
 
 ### [Frontify Style Guide](https://frontify.com/styleguide)
 > You can create design, brand or UI guidelines with the Frontify Style Guide editor. Use existing templates or start from scratch by choosing from over 20 smart blocks (like colors, media, typography, UI elements, & more) - For Non-coders and coders =)
