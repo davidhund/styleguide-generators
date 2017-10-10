@@ -102,6 +102,11 @@ This page aims to list these tools. If you know of other tools or have other fee
 
 [Source](https://github.com/interactivethings/catalog) | [Demo](https://interactivethings.github.io/catalog/) **React, NodeJS, CLI, Markdown, components**
 
+### [React Showroom](https://github.com/OpusCapita/react-showroom-client)
+> React components catalog with live examples and documenting using markdown
+
+[Source](https://github.com/OpusCapita/react-showroom-client) | [Demo](https://opuscapita.github.io/react-rich-editors) **React, Markdown, components**
+
 ## Vue
 
 ### [Vue Styleguidist](https://github.com/vue-styleguidist/vue-styleguidist)
