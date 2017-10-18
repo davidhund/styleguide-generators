@@ -292,13 +292,13 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 ### [Styledown](https://github.com/styledown/styledown)
 > Styledown is made to work in most web development setups. It doesn't favor any framework or language or any preprocessor.
 
-[Demo](http://cdn.rawgit.com/styledown/styledown/v1.0.2/examples/bootstrap/index.html) | [Source](https://github.com/styledown/styledown) **CSS, NodeJS, Markdown**
+[Demo](http://cdn.rawgit.com/styledown/styledown/v1.0.2/examples/bootstrap/index.html) | [Source](https://github.com/styledown/styledown) | **CSS, NodeJS, Markdown**
 
 
 ### [markdown-styleguide-generator](https://github.com/emiloberg/markdown-styleguide-generator)
 > Markdown-styleguide-generator will search all your style files (your .css, .scss _partial.scss, .less, .whatever) for comments and create a html file living style guide for your developers to use.
 
-[Source](https://github.com/emiloberg/markdown-styleguide-generator) **CSS, Less, Markdown, NodeJS, Gulp, Grunt**
+[Source](https://github.com/emiloberg/markdown-styleguide-generator) | **CSS, Less, Markdown, NodeJS, Gulp, Grunt**
 
 
 ## Grunt / Gulp Tasks
