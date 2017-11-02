@@ -17,6 +17,7 @@ This page aims to list these tools. If you know of other tools or have other fee
 - [VueJs](#user-content-vue)
 - [NodeJS](#user-content-nodejs)
 - [Jekyll](#user-content-jekyll)
+- [Angular](#user-content-angular)
 - [CSS (parsing CSS source)](#user-content-css-parsing-css-source)
 - [Grunt / Gulp Tasks](#user-content-grunt--gulp-tasks)
 - [Online Services](#user-content-online-services)
@@ -213,6 +214,16 @@ This page aims to list these tools. If you know of other tools or have other fee
 
 ### [Pattern Primer on Jekyll](https://github.com/opattison/Pattern-Primer-Jekyll)
 [Source](https://github.com/opattison/Pattern-Primer-Jekyll) | **Jekyll, Static Site Generator**
+
+
+## Angular
+
+### [UI-jar](https://github.com/ui-jar/ui-jar)
+> Test Driven Style Guide Development - Angular (2.x and above). 
+A drop in module to automatically create a living style guide based on the test you write for your components.
+Bundle with your favorite build tool and you will automatically get a web app where you can view examples of each component together with associated documentation.
+
+[Source](https://github.com/ui-jar/ui-jar) | **Angular (2.x and above), Test Driven Style Guide Development**
 
 
 ## CSS (parsing CSS source)
