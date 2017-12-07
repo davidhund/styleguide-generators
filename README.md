@@ -388,4 +388,4 @@ These services provide a web-app to generate your styleguide. Some require an ac
 * [medium.com/daily-ui-ux-inspirations/](https://medium.com/daily-ui-ux-inspirations/e5bb62db91e5)
 * [speakerdeck.com/.../style-guide-driven-development](https://speakerdeck.com/hagenburger/style-guide-driven-development)
 * [speakerdeck.com/.../improving-your-responsive-workflow-with-style-guides](https://speakerdeck.com/lukebrooker/improving-your-responsive-workflow-with-style-guides)
-* [paulrobertlloyd.com/about/styleguide/](http://paulrobertlloyd.com/about/styleguide/)
+* [paulrobertlloyd.com/styleguide/](http://paulrobertlloyd.com/styleguide/)
