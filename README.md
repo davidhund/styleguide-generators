@@ -399,6 +399,4 @@ These services provide a web-app to generate your styleguide. Some require an ac
 * [speakerdeck.com/.../style-guide-driven-development](https://speakerdeck.com/hagenburger/style-guide-driven-development)
 * [speakerdeck.com/.../improving-your-responsive-workflow-with-style-guides](https://speakerdeck.com/lukebrooker/improving-your-responsive-workflow-with-style-guides)
 * [paulrobertlloyd.com/styleguide/](http://paulrobertlloyd.com/styleguide/)
-* [UI component explorers – your new favorite tool](https://blog.hichroma.com/the-crucial-tool-for-modern-frontend-engineers-fb849b06187a)
 * [UI component playbook](https://blog.hichroma.com/ui-component-playbook-fd3022d00590)
-* [Component-driven development](https://blog.hichroma.com/component-driven-development-ce1109d56c8e)
