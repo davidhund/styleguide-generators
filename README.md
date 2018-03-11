@@ -214,6 +214,11 @@ Storybook is a UI development environment for your UI components. With it, you c
 
 [Source](https://github.com/dennisreimann/uiengine) | **NodeJS, Gulp, CLI, Markdown, YAML, Templating agnostic (Pug, React/JSX, Handlebars, …)**
 
+### [Fepper](http://fepper.io)                                                                                           
+> Easily integrate your pattern library into your web application! Or even just output a static site!
+
+[Source](https://github.com/electric-eloquence/fepper) | **NodeJS, Prototype to Webapp Interface, Static Site Generator, Mustache/[Feplet](https://www.npmjs.com/package/feplet)**
+
 
 ## Jekyll
 
