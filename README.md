@@ -326,6 +326,12 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 
 [Source](https://github.com/emiloberg/markdown-styleguide-generator) | **CSS, Less, Markdown, NodeJS, Gulp, Grunt**
 
+### [Atlas-guide](https://github.com/dimanech/atlas-guide)
+> Atlas will search comments in scss and regular markdown files and create html structure based on this. It comes with extensive styles monitoring and project reports. It is similar to Hologram.
+
+[Source](https://github.com/dimanech/atlas-guide) | [Demo](https://dimanech.github.io/atlas-guide/) | **NodeJS, Mustache, Markdown, Static Site Generator**
+
+
 
 ## Grunt / Gulp Tasks
 
