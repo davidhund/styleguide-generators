@@ -219,6 +219,11 @@ Storybook is a UI development environment for your UI components. With it, you c
 
 [Source](https://github.com/electric-eloquence/fepper) | **NodeJS, Prototype to Webapp Interface, Static Site Generator, Mustache/[Feplet](https://www.npmjs.com/package/feplet)**
 
+### [Malvid](https://malvid.io/)
+> Developing components. The right way. Generate an interactive UI to develop, preview and document web components.
+
+[Source](https://github.com/Malvid/Malvid) | **NodeJS, EJS, Twig, Nunjucks, Babel**
+
 
 ## Jekyll
 
