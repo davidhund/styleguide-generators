@@ -224,7 +224,6 @@ Storybook is a UI development environment for your UI components. With it, you c
 
 [Source](https://github.com/Malvid/Malvid) | **NodeJS, EJS, Twig, Nunjucks, Babel**
 
-
 ## Jekyll
 
 ### [Jekyll Styleguide](https://github.com/davidhund/jekyll-styleguide)
@@ -335,6 +334,11 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 > Atlas will search comments in scss and regular markdown files and create html structure based on this. It comes with extensive styles monitoring and project reports. It is similar to Hologram.
 
 [Source](https://github.com/dimanech/atlas-guide) | [Demo](https://dimanech.github.io/atlas-guide/) | **NodeJS, Mustache, Markdown, Static Site Generator**
+
+### [Styleguide by Huge Inc.](https://hugeinc.github.io/styleguide/index.html)
+> A tool to make creating and maintaining styleguides easy.
+
+[Source](https://github.com/hugeinc/styleguide) | **CSS, NodeJS, HarpJS, Static Site Generator**
 
 
 
