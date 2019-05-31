@@ -335,7 +335,7 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 
 [Source](https://github.com/dimanech/atlas-guide) | [Demo](https://dimanech.github.io/atlas-guide/) | **NodeJS, Mustache, Markdown, Static Site Generator**
 
-### [Sytleguide](https://hugeinc.github.io/styleguide/index.html)
+### [Styleguide by Huge Inc.](https://hugeinc.github.io/styleguide/index.html)
 > A tool to make creating and maintaining styleguides easy.
 
 [Source](https://github.com/hugeinc/styleguide) | **CSS, NodeJS, HarpJS, Static Site Generator**
